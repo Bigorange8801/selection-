@@ -74,3 +74,11 @@ h1:hover {
 a:visited {
 	color: gray;
 }
+
+.johnny-boy {
+	width: 100%;
+	text-align: center;
+	background: #333;
+	color: whitesmoke;
+	
+}
